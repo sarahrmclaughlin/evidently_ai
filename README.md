@@ -1,2 +1,2 @@
 # evidently_ai
-Testing our Evidently for MLOps
+Testing out Evidently for MLOps
