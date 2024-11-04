@@ -2,12 +2,12 @@
 __pycache__/
 *.pyc
 
-# Ignore virtual environments
-venv/
-
 # Ignore environment or IDE-specific files
 .env
 .vscode/
 .DS_Store
+
+# Ignore virtual environments
+venv/
 
 
