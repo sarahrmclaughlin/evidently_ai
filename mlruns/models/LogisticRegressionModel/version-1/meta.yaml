@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730891323829
+current_stage: None
+description: null
+last_updated_timestamp: 1730891323829
+name: LogisticRegressionModel
+run_id: b38865e28ba8486abad4fabf933235f7
+run_link: null
+source: file:///Users/sarahrmclaughlin/Documents/repos/evidently_ai_ml/mlruns/877183462016495713/b38865e28ba8486abad4fabf933235f7/artifacts/logistic_regression_model
+status: READY
+status_message: null
+storage_location: file:///Users/sarahrmclaughlin/Documents/repos/evidently_ai_ml/mlruns/877183462016495713/b38865e28ba8486abad4fabf933235f7/artifacts/logistic_regression_model
+user_id: null
+version: 1

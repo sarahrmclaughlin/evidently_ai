@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sarahrmclaughlin/Documents/repos/evidently_ai_ml/mlruns/877183462016495713/b38865e28ba8486abad4fabf933235f7/artifacts
+end_time: 1730891323831
+entry_point_name: ''
+experiment_id: '877183462016495713'
+lifecycle_stage: active
+run_id: b38865e28ba8486abad4fabf933235f7
+run_name: unequaled-ant-20
+run_uuid: b38865e28ba8486abad4fabf933235f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730891318528
+status: 3
+tags: []
+user_id: sarahrmclaughlin
